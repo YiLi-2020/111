@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yili.cpu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yil056@ucsd.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: skype
   icon_pack: fab
   link: mailto:yili.cpu@gmail.com
