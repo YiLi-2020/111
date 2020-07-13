@@ -30,6 +30,9 @@ education:
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: 2020
+  - course: M.S. in NanoEngineering
+    institution: University of California, San Diego
+    year: 2022
     
 
 # Social/Academic Networking
